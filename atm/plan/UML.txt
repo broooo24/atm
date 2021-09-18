@@ -1,0 +1,11 @@
+Card
+	number
+	PIN
+	money
+	
+	
+	history
+	withdraw
+	deposit
+	transfer
+	quit
